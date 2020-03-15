@@ -1,0 +1,25 @@
+messages:
+  no_movies: Movies list are empty.
+  add_new_director: 'Add new director'
+  add_new_genre: 'Add new genre'
+  add_new_movie: 'Add new movie'
+  info:
+    director_created: Director created successful.
+    genre_created: Genre created successful.
+
+form:
+  name: 'Name:'
+  surname: 'Surname:'
+  save: 'Save'
+  genre: 'Genre:'
+  release_date: 'Release date:'
+  year: 'Year:'
+  month: 'Month:'
+  day: 'Day:'
+  director: 'Director:'
+
+navigation:
+  movies_list: Movies list
+  add_movie: Add new movie
+  add_director: Add new director
+  add_genre: Add new genre

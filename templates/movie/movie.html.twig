@@ -1,0 +1,6 @@
+<tr>
+    <th>{{ movie.getName() }}</th>
+    <td>{{ movie.getReleaseDate()|date('m/d/Y') }}</td>
+    <td>{{ movie.getDirector().getName() }} {{ movie.getDirector().getSurname() }}</td>
+    <td>{{ movie.getGenre().getName() }}</td>
+</tr>
